@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Colors
 //
-//  Created by Wil C Thuston on 10/19/17.
+//  Created by Wil C Thuston on 10/29/17.
 //  Copyright © 2017 Wil Thuston. All rights reserved.
 //
 
